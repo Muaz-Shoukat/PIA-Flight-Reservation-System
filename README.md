@@ -1,2 +1,3 @@
-# PIA-Flight-Reservation-System
-CLI based Flight reservation system in C++ Using complex data Structures
+# Flight-Reservation-System
+CLI based Flight reservation system in C++
+Using complex data Structures 
